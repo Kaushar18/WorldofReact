@@ -1,0 +1,9 @@
+
+.makeup-item{
+    display:flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+.makeup-item.item img{
+    max-width: 180px;
+}
